@@ -124,7 +124,7 @@ shinyUI(pageWithSidebar(
         br(),
         br(),
         p(strong(em("Documentation:",a("FOREX Converter",href="READMe.html")))),
-        p(strong(em("Github Repository:",a("Developing Data Products - Johns Hopkins University",href="https://github.com/corderoai?tab=repositories"))))
+        p(strong(em("Github Repository:",a("Developing Data Products - Johns Hopkins University",href="https://github.com/corderoai/DDPJHU_Final_Project_ShinyApp"))))
         ),
 
         mainPanel(
